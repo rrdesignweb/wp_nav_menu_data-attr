@@ -1,4 +1,4 @@
-# Adds a data Attribute for wordpress menu items
+# Adds a data attribute for wordpress menu items
 
 Adapted from https://wordpress.org/plugins/sweet-custom-menu/
 
